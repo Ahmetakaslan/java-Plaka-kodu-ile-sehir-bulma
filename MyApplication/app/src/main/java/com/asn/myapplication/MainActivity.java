@@ -78,8 +78,8 @@ public class MainActivity extends AppCompatActivity {
         hashMap.put(31, "Hatay");
         hashMap.put(32, "Isparta");
         hashMap.put(33, "Mersin");
-        hashMap.put(34, "İstanbul ");
-        hashMap.put(35, "İzmir");
+        hashMap.put(34, "istanbul ");
+        hashMap.put(35, "izmir");
         hashMap.put(36, "Kars");
         hashMap.put(37, "Kastamonu");
         hashMap.put(38, "Kayseri");
